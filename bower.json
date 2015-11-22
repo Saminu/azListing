@@ -1,0 +1,27 @@
+{
+  "name": "azListing",
+  "homepage": "https://github.com/Saminu/azListing",
+  "authors": [
+    "Sam <s.salisu@live.co.uk>"
+  ],
+  "description": "asListing for ipalyer by Saminu Salisu",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Iplayer",
+    "bbc",
+    "pagination"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.1",
+    "angularjs": "~1.3.7"
+  }
+}
